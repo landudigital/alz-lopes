@@ -57,7 +57,7 @@ custom_replacements = {
     # Resource provisioning primary connectivity
     primary_firewall_enabled                                             = false
     primary_firewall_management_ip_enabled                               = true
-    primary_virtual_network_gateway_express_route_enabled                = true
+    primary_virtual_network_gateway_express_route_enabled                = false
     primary_virtual_network_gateway_express_route_hobo_public_ip_enabled = true
     primary_virtual_network_gateway_vpn_enabled                          = true
     primary_private_dns_zones_enabled                                    = true
