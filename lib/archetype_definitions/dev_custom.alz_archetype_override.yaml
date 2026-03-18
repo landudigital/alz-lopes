@@ -1,4 +1,4 @@
-base_archetype: landing_zones
+base_archetype: online
 name: dev_custom
 policy_assignments_to_add: []
 policy_assignments_to_remove: []
